@@ -6,13 +6,13 @@ Adımlar:
 
 Veri İnceleme:
 İlk adım, CLASS sütunundaki değerlerin dağılımını table(CLASS) fonksiyonu kullanarak incelemeyi içerir.
-R
+
 
 # CLASS sütunundaki orijinal değerlerin dağılımını gösteriyoruz
 table(CLASS)
 Eksik Değerleri Görselleştirme:
 DataExplorer paketi kullanılarak veri setindeki eksik değerlerin görselleştirilmesi gerçekleştirilir.
-R
+
 
 # DataExplorer paketini yükledik
 library(DataExplorer)
