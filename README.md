@@ -1,5 +1,4 @@
-# Data-Cleaning
-Diabet Data cleaning example
+
 Amaç:
 Bu R betiğinin amacı, D adlı bir veri çerçevesinde veri temizleme ve dönüştürme işlemleri gerçekleştirmektir. Temel odak noktası, "P" değerlerinin "N" ile değiştirildiği CLASS sütunudur.
 
